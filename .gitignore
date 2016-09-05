@@ -1,0 +1,9 @@
+reader
+writer
+queue_test
+lkm_queue.ko
+lkm_queue.mod*
+lkm_queue.o
+.lkm_queue.*
+modules.order
+Module.*
